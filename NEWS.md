@@ -1,3 +1,7 @@
+# thesisdowndiu 0.0.1
+
+* Using utem word template
+
 # thesisdown 0.0.2
 
 - Changed default filename (in directions) to be `index` instead of `skeleton` to match with gitbook requirements
